@@ -75,6 +75,10 @@ a publicly available open-source LLM chatbot application.
 
 ### Run it yourself
 
+### Test Results
+
+![Test suite execution](tests/results.png)
+
 ```bash
 # Install dependencies
 pip install pytest openai python-dotenv pytest-asyncio

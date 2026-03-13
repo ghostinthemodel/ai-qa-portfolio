@@ -77,6 +77,8 @@ a publicly available open-source LLM chatbot application.
 
 ### Test Results
 
+![Test suite passing](tests/results.png)
+
 ![Test suite execution](tests/results.png)
 
 ```bash

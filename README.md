@@ -79,7 +79,6 @@ a publicly available open-source LLM chatbot application.
 
 ![Test suite passing](tests/results.png)
 
-![Test suite execution](tests/results.png)
 
 ```bash
 # Install dependencies
